@@ -1,4 +1,4 @@
-## Prezentare
+## Presentation
 
 ![Slide 1](presentation-images/slide1.png)
 ![Slide 2](presentation-images/slide2.png)
